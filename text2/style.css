@@ -1,0 +1,78 @@
+.box{
+	width: 667px;
+	margin: 0 auto;
+	border: 2px solid #000;
+
+}
+
+.nav{
+	height: 40px;
+	width: 50%;
+	margin-bottom: 20px;
+}
+
+.instag{
+
+}
+
+.backgrounddiv{
+	background: #eee;
+}
+
+hr{
+	margin: 0;
+}
+
+.profileimg{
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.instag img{
+	width: 100px;
+	padding: 10px;
+
+}
+
+.cimg{
+	width: 200px;
+	object-fit: cover;
+	height: 200px;
+	padding: 8px;
+}
+
+/*ex3*/
+
+.gimg{
+	width: 100px;
+	margin: 10px 0 0 20px;
+}
+
+.section input{
+	margin: 20px;
+	width: 100%;
+	border-radius: 30px;
+}
+
+.simg{
+	width: 40px;
+	height: 40px;
+	background: #eee;
+	border-radius: 50px;
+
+}
+
+.left_img{
+	margin-top: 16px;
+	margin-right: 20px;
+}
+
+.section input{
+	border: 1px solid #dfe1e5;
+	height: 36px;
+	}

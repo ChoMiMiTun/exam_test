@@ -1,0 +1,8 @@
+1. SELECT name "STAFF_NAME" FROM staffs
+2. SELECT DISTINCT id FROM departments
+3. SELECT * FROM `staffs` ORDER BY name
+4. 
+5.
+6. SELECT * FROM departments WHERE name = "Admin"
+7. SELECT *FROM staffs WHERE name like 'a%'
+8. SELECT *FROM staffs WHERE name like '%e'
